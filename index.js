@@ -34,5 +34,9 @@ myFunction.call(myFunction);
 
 //d) If the string uses spaces to separate the words, split it into an array, reverse alphabetize the entries, and then join the array into a new space separated string.
 
+////let newString = arr2.toString(); 
+//console.log(newString);
 
 //e) If the string uses ‘comma spaces’ to separate the list, modify your code to produce the same result as part “b”, making sure that the extra spaces are NOT part of the final string.
+
+
